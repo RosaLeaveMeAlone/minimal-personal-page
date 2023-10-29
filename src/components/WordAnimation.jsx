@@ -47,7 +47,7 @@ const WordAnimation = () => {
     changeTextWithAnimation();
   }, []);
 
-  return <div className='text-white' ref={textContainerRef}>{words[0]}</div>;
+  return <div className='text-white text-xl select-none' ref={textContainerRef}>{words[0]}</div>;
 };
 
 export default WordAnimation;
