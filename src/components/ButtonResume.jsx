@@ -9,19 +9,21 @@ const ButtonResume = () => {
         <div className="group">
           <button
             className="group w-full md:w-72 transition-all 
-            duration-150 bg-blue-600 text-white border-b-8 
-            border-b-blue-600 rounded-lg group-hover:border-t-8 
-            group-hover:border-b-0 group-hover:bg-blue-600 
-            group-hover:border-t-blue-600 group-hover:shadow-lg"
+            duration-150 text-white border-b-4 border
+            border-b-zinc-200 rounded-lg group-hover:border-t-4 
+            group-hover:border-b-0 group-hover:bg-zinc-50 
+            group-hover:border-t-zinc-200 group-hover:shadow-lg
+            group-hover:text-black"
             onClick={handleButtonClick}
           >
             <div
-              className="px-8 py-4 duration-150 bg-blue-500 rounded-lg group-hover:bg-blue-600"
+              className="px-8 py-4 duration-150 rounded-lg group-hover:bg-zinc-50"
             >
               Download Resume
             </div>
           </button>
         </div>
+
       );
 }
 
