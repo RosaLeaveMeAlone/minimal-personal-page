@@ -7,12 +7,13 @@ const WordAnimation = () => {
   const words = [
     'PHP',
     'JavaScript',
+    'AWS',   
+    'Jenkins', 
     'Docker',
     'ReactJS',
-    'VueJS',
     'Laravel',
     'NodeJS',
-    'AWS',    
+    'VueJS',
   ];
   const animationDuration = 300;
   const delay = 2000;
