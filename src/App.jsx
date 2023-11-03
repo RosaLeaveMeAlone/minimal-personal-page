@@ -85,6 +85,9 @@ function App() {
                 <i className="devicon-jenkins-line text-2xl"></i> Jenkins
               </li>
               <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
+                <i className="devicon-nginx-original text-2xl"></i> Nginx
+              </li>
+              <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
                 <i className="devicon-vuejs-plain text-2xl"></i> VueJS
               </li>
               <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
