@@ -94,6 +94,9 @@ function App() {
                 <i className="devicon-react-original text-2xl"></i> ReactJS
               </li>
               <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
+                <i className="devicon-postgresql-plain text-2xl"></i> Postgresql
+              </li>
+              <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
                 <i className="devicon-mysql-plain-wordmark text-2xl"></i> Mysql
               </li>
               <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
@@ -141,6 +144,9 @@ function App() {
             </li>
             <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
               <i className="devicon-prometheus-original text-2xl"></i> Prometheus
+            </li>
+            <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
+              <i className="devicon-nextjs-plain text-2xl"></i> NextJS
             </li>
           </ul>
         </div>
