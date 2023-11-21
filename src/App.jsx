@@ -148,6 +148,12 @@ function App() {
             <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
               <i className="devicon-nextjs-plain text-2xl"></i> NextJS
             </li>
+            <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
+              <i className="devicon-svelte-plain text-2xl"></i> Svelte
+            </li>
+            <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
+              <i className="devicon-cplusplus-plain text-2xl"></i> C++
+            </li>
           </ul>
         </div>
         </div>
