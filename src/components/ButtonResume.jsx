@@ -1,6 +1,6 @@
 const ButtonResume = () => {
     const handleButtonClick = () => {
-      const nuevaURL = 'https://joel-uzcategui.com/files/Joel_Uzcategui_Resume_11_2023.pdf';
+      const nuevaURL = 'https://joel-uzcategui.com/files/Joel-Uzcategui-2023-12.pdf';
       
       window.open(nuevaURL, '_blank');
     };
