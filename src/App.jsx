@@ -1,5 +1,6 @@
 import WordAnimation from './components/WordAnimation';
 import ButtonResume from './components/ButtonResume';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -158,9 +159,10 @@ function App() {
         </div>
         </div>
       </section>
-
+      <Footer />
     </>
   )
 }
 
 export default App
+
