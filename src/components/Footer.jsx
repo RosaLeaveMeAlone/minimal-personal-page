@@ -20,7 +20,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <div className="flex flex-col items-start justify-between space-y-4 text-gray-500">
+                <div className="flex flex-col items-start justify-between space-y-4 text-gray-100">
                     <div className="flex items-center justify-center space-x-4 mx-auto md:mx-0 md:justify-end">
                         <div className="h-8 group">
                             <a href="https://www.linkedin.com/in/joel-uzcategui-44497722a/">
