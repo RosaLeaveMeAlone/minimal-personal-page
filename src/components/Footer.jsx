@@ -1,5 +1,8 @@
 
 const Footer = () => {
+    const iconStyle = {
+        fontSize: '2rem',
+      };
   return (
     <footer className="bg-zinc-900">
         <div className="container max-w-6xl py-10 mx-auto">
@@ -24,12 +27,12 @@ const Footer = () => {
                     <div className="flex items-center justify-center space-x-4 mx-auto md:mx-0 md:justify-end">
                         <div className="h-8 group">
                             <a href="https://www.linkedin.com/in/joel-uzcategui-44497722a/">
-                            <i class="devicon-linkedin-plain"></i>
+                            <i class="devicon-linkedin-plain" style={iconStyle}></i>
                             </a>
                         </div>
                         <div className="h-8 group">
                             <a href="https://github.com/RosaLeaveMeAlone">
-                            <i class="devicon-github-original"></i>
+                            <i class="devicon-github-original" style={iconStyle}></i>
                             </a>
                         </div>
                     </div>
