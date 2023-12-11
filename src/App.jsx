@@ -42,20 +42,11 @@ function App() {
           <div
             className="relative flex flex-col mt-10 w-80vw p-6 space-y-6 bg-white rounded-lg md:mt-8 md:w-1/3"
           >
-            {/* <!-- Image Positioning --> */}
-            <div className="absolute -ml-10 left-1/2 -top-10 md:left-16">
-              {/* <!-- Image Container For Background & Center --> */}
-              <div
-                className="flex items-center justify-center w-20 h-20 p-4 rounded-full bg-veryDarkViolet"
-              >
-                <img src="images/icon-detailed-records.svg" alt="" />
-              </div>
-            </div>
-            <h5
+            <h2
               className="pt-6 text-xl font-bold text-center capitalize md:text-left"
             >
               Current Knowledge
-            </h5>
+            </h2>
             {/* Make a list with tailwind with those technologies: React, NodeJS, Docker Kubernetes */}
             <ul className="grid grid-cols-2 gap-2 md:grid-cols-2">
               <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
@@ -116,20 +107,11 @@ function App() {
         <div
           className="relative flex flex-col mt-10 p-6 space-y-6 bg-white rounded-lg md:mt-16 md:w-1/3"
         >
-          {/* <!-- Image Positioning --> */}
-          <div className="absolute -ml-10 left-1/2 -top-10 md:left-16">
-            {/* <!-- Image Container For Background & Center --> */}
-            <div
-              className="flex items-center justify-center w-20 h-20 p-4 rounded-full bg-veryDarkViolet"
-            >
-              <img src="images/icon-fully-customizable.svg" alt="" />
-            </div>
-          </div>
-          <h5
+          <h2
             className="pt-6 text-xl font-bold text-center capitalize md:text-left"
           >
             Next Steps
-          </h5>
+          </h2>
           <ul className="grid grid-cols-2 gap-2 md:grid-cols-2">
             <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
               <i className="devicon-kubernetes-plain-wordmark text-2xl"></i> Kubernetes
