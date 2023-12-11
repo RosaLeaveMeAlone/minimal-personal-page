@@ -26,12 +26,12 @@ const Footer = () => {
                 <div className="flex flex-col items-start justify-between space-y-4 text-gray-100">
                     <div className="flex items-center justify-center space-x-4 mx-auto md:mx-0 md:justify-end">
                         <div className="h-8 group">
-                            <a href="https://www.linkedin.com/in/joel-uzcategui-44497722a/">
+                            <a href="https://www.linkedin.com/in/joel-uzcategui-44497722a/" aria-label="LinkedIn">
                             <i class="devicon-linkedin-plain" style={iconStyle}></i>
                             </a>
                         </div>
                         <div className="h-8 group">
-                            <a href="https://github.com/RosaLeaveMeAlone">
+                            <a href="https://github.com/RosaLeaveMeAlone" aria-label="GitHub">
                             <i class="devicon-github-original" style={iconStyle}></i>
                             </a>
                         </div>
