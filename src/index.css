@@ -41,11 +41,14 @@ body {
       background-image: url('/sisifo-background.webp'); 
       background-size: cover;
       background-position: center;
-      filter: brightness(7%) blur(4px); 
+      filter: brightness(14%) blur(4px); 
       opacity: 0.8; 
-      @media (max-width: 768px) {
-          filter: brightness(14%) blur(4px); 
-      }
+  }
+
+  @media (max-width: 768px) {
+    .custom-background::before {
+        filter: brightness(20%) blur(4px); 
+    }
   }
 
   
