@@ -10,7 +10,8 @@ function App() {
     <>
       {/* Hero section */}
       <section>
-          <div className="flex items-center justify-center min-h-screen bg-black">
+      {/* sisifo-background.webp */}
+          <div className="flex items-center justify-center min-h-screen bg-black custom-background">
               <div className="relative flex flex-col m-6 space-y-6 justify-center">
                   <div className="text-center space-y-8">
                       <h1 className="text-white text-6xl">Joel Uzcategui</h1>
