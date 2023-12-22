@@ -121,6 +121,12 @@ function App() {
               <i className="devicon-terraform-plain text-2xl"></i> Terraform
             </li>
             <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
+              <i class="devicon-dart-plain"></i> Dart
+            </li>
+            <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
+              <i class="devicon-flutter-plain"></i> Flutter
+            </li>
+            <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
               <i className="devicon-python-plain text-2xl"></i> Python
             </li>
             <li className="px-2 py-1 my-1 text-xs font-bold bg-veryDarkViolet rounded-full md:mx-1">
