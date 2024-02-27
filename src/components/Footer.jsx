@@ -10,10 +10,6 @@ const Footer = () => {
                 <div className="flex flex-col items-center space-y-8 mme:items-start md:space-y-4">
                     <div className="flex flex-col items-center space-y-4 font-bold text-white md:flex-row md:space-y-0 md:space-x-6 md:ml-3">
                         <div className="h-10 group">
-                            <a href="https://github.com/RosaLeaveMeAlone/minimal-personal-page">Link To This Website Repository</a>
-                            <div className="mx-2 group-hover:border-b group-hover:border-blue-50"></div>
-                        </div>
-                        <div className="h-10 group">
                             <a href="https://github.com/RosaLeaveMeAlone/digital-design-tailwind-svelte">Some Tailwind Template</a>
                             <div className="mx-2 group-hover:border-b group-hover:border-blue-50"></div>
                         </div>
