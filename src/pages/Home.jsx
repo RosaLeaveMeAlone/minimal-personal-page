@@ -150,9 +150,9 @@ export const Home = () => {
         {/* Contact form and what can i do/ how can i help you */}
         <section>
           <div className="flex p-5 md:p-20 bg-gradient-to-b from-black to-zinc-950 flex-col-reverse md:flex-row md:space-x-7 justify-center items-center">
-            <div className="w-full mx-auto">
+            {/* <div className="w-full mx-auto"> */}
               {/* <ContactForm /> */}
-            </div>
+            {/* </div> */}
             <div className="w-full mb-5 md:mb-0">
               <h1 className="text-center mb-2 text-xl font-extrabold leading-none tracking-tight text-white md:text-2xl">How can I help you</h1>
               <article className="text-pretty text-slate-300">
