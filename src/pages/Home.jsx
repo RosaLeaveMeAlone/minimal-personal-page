@@ -14,7 +14,7 @@ export const Home = () => {
                     <div className="text-center space-y-8">
                         <h1 className="text-white text-6xl">Joel Uzcategui</h1>
                         <h2 className="text-blue-700 text-4xl">Software Engineer with Devops Expertise</h2>
-                        <p className="text-gray-200 text-2xl">Over 4 Years of Experience</p>
+                        <p className="text-gray-200 text-2xl">Over 5 Years of Experience</p>
                         <ButtonResume />
                         <WordAnimation  />
                         <div className="w-full border-b mt-10"></div>
